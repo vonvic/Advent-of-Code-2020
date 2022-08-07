@@ -4,8 +4,15 @@ tool mainly for me to learn JavaScript. I have also used included an html and
 css file for each solution so that I have practice with those two languages as
 well.
 
-## Problem Completion ##
-*(☑️ - incomplete, ✅ - complete):* <br>
+## Problem Completion Status ##
+
+*Legend*
+```
+☑️ - incomplete
+✅ - complete
+```
+
+### Problem status
 ```
 ☑️ - 01
 ☑️ - 02
